@@ -9,5 +9,3 @@ root.render(
     <App />
   </React.StrictMode>
 )
-
-// 5 10
