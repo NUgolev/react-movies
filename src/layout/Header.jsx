@@ -2,11 +2,12 @@ function Header() {
   return (
     <nav className="blue-grey">
       <div className="nav-wrapper">
-        <a href="#">
+        <a href="#" className="left">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VHS_diagonal.svg/2192px-VHS_diagonal.svg.png"
             alt="VHS img"
-            width={60}
+            classNane="materialboxed"
+            width="60"
           />
         </a>
         <a href="#" className="brand-logo">

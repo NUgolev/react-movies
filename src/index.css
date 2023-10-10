@@ -8,12 +8,8 @@ body {
   background-color: lightgrey;
 }
 
-nav {
-  padding: 0 1rem;
-}
-
 nav img {
-  padding-top: 0.2rem;
+  padding-top: 0.1rem;
 }
 
 .content {

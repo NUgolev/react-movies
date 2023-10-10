@@ -35,7 +35,7 @@ class Search extends React.Component {
 
         <input
           id="icon_search"
-          type="tel"
+          type="text"
           className="validate"
           value={this.state.search}
           onChange={(e) => this.setState({ search: e.target.value })}
